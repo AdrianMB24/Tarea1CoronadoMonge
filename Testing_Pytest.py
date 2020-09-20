@@ -50,7 +50,7 @@ def test_basic_ops_error_op_invalida():
 
 
 #  ------------------------------------------------------------------------------------------
-
+# ERR3 x3
 
 def test_array_ops():    # Definicion de funcion de prueba
 
